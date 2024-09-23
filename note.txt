@@ -9,3 +9,4 @@ git status :- used to check status of git presenty inside the folder
 git init   :-uesd to create or initiate git reposiitory in  A folder
 git add .  :-used to track all untracked files to git
 git commit -m "meaasage" :-used to save or store tracked files to git
+git push origin master
